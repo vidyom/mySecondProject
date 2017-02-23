@@ -12,6 +12,8 @@
  *  *
  * Copyright 2011 Oracle and/or its affiliates. All rights reserved.
  * * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
+ * 
+ * 
  * Oracle and Java are registered trademarks of Oracle and/or its affiliates.
  * Other names may be trademarks of their respective owners.
  * or nbbuild/licenses/CDDL-GPL-2-CP. See the License for the
